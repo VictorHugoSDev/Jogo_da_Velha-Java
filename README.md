@@ -18,4 +18,4 @@ jogada é inválida
 6) void exibeFim( int ) – exibe um texto informando que deu “velha” ou que o jogador tal
 ganhou o jogo
 
-<p style="color:red">A matriz que representa o tabuleiro do jogo é a única variável global do programa.</p>
+*A matriz que representa o tabuleiro do jogo é a única variável global do programa.*
